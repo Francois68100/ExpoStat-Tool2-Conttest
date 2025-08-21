@@ -1,0 +1,81 @@
+﻿Value;Sensor;Volume;File
+<0.01;Respiratory;500;CH500-01.csv
+1.0464;Breast L;500;CH500-01.csv
+5.7762;Breast R;500;CH500-01.csv
+0.0669;Stomach L;500;CH500-01.csv
+6.6504;Stomach R;500;CH500-01.csv
+<0.01;Navel;500;CH500-01.csv
+0.1848;Side L;500;CH500-01.csv
+12.7878;Side R;500;CH500-01.csv
+0.1162;Respiratory;500;CH500-02.csv
+2.015;Breast L;500;CH500-02.csv
+10.46;Breast R;500;CH500-02.csv
+0.0409;Stomach L;500;CH500-02.csv
+8.1223;Stomach R;500;CH500-02.csv
+<0.01;Navel;500;CH500-02.csv
+0.0486;Side L;500;CH500-02.csv
+6.1431;Side R;500;CH500-02.csv
+0.2905;Respiratory;500;CH500-03.csv
+5.2027;Breast L;500;CH500-03.csv
+11.1361;Breast R;500;CH500-03.csv
+8.7499;Stomach L;500;CH500-03.csv
+15.2497;Stomach R;500;CH500-03.csv
+<0.01;Navel;500;CH500-03.csv
+1.3813;Side L;500;CH500-03.csv
+8.0342;Side R;500;CH500-03.csv
+0.3081;Respiratory;500;CH500-04.csv
+0.3344;Breast L;500;CH500-04.csv
+3.3748;Breast R;500;CH500-04.csv
+0.5543;Stomach L;500;CH500-04.csv
+4.0689;Stomach R;500;CH500-04.csv
+<0.01;Navel;500;CH500-04.csv
+0.6698;Side L;500;CH500-04.csv
+7.2616;Side R;500;CH500-04.csv
+0.096;Respiratory;500;CH500-05.csv
+0.734;Breast L;500;CH500-05.csv
+9.6703;Breast R;500;CH500-05.csv
+0.8042;Stomach L;500;CH500-05.csv
+20.119;Stomach R;500;CH500-05.csv
+<0.01;Navel;500;CH500-05.csv
+0.316;Side L;500;CH500-05.csv
+18.3113;Side R;500;CH500-05.csv
+0.0588;Respiratory;500;CH500-06.csv
+2.9157;Breast L;500;CH500-06.csv
+2.3578;Breast R;500;CH500-06.csv
+0.3469;Stomach L;500;CH500-06.csv
+8.0744;Stomach R;500;CH500-06.csv
+<0.01;Navel;500;CH500-06.csv
+0.0527;Side L;500;CH500-06.csv
+11.9187;Side R;500;CH500-06.csv
+0.0815;Respiratory;500;CH500-07.csv
+1.5147;Breast L;500;CH500-07.csv
+7.0812;Breast R;500;CH500-07.csv
+2.6672;Stomach L;500;CH500-07.csv
+17.1326;Stomach R;500;CH500-07.csv
+<0.01;Navel;500;CH500-07.csv
+1.3019;Side L;500;CH500-07.csv
+11.9493;Side R;500;CH500-07.csv
+[0.01-0.033];Respiratory;500;CH500-08.csv
+0.5376;Breast L;500;CH500-08.csv
+6.0776;Breast R;500;CH500-08.csv
+0.65;Stomach L;500;CH500-08.csv
+22.6633;Stomach R;500;CH500-08.csv
+<0.01;Navel;500;CH500-08.csv
+0.417;Side L;500;CH500-08.csv
+14.6858;Side R;500;CH500-08.csv
+0.0861;Respiratory;500;CH500-09.csv
+1.6613;Breast L;500;CH500-09.csv
+6.5396;Breast R;500;CH500-09.csv
+0.2741;Stomach L;500;CH500-09.csv
+6.593;Stomach R;500;CH500-09.csv
+<0.01;Navel;500;CH500-09.csv
+0.2346;Side L;500;CH500-09.csv
+15.2058;Side R;500;CH500-09.csv
+[0.01-0.033];Respiratory;500;CH500-10.csv
+1.4133;Breast L;500;CH500-10.csv
+4.6142;Breast R;500;CH500-10.csv
+0.4264;Stomach L;500;CH500-10.csv
+14.8621;Stomach R;500;CH500-10.csv
+<0.01;Navel;500;CH500-10.csv
+0.5434;Side L;500;CH500-10.csv
+18.2142;Side R;500;CH500-10.csv
